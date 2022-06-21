@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @samuel-mo
-- 👀 I’m interested in becoming a software engineer.
+- 👀 I am a transitioning service member and self-taught developer looking to take my problem solving, critical thinking and team-building skills into the software industry. 
 - 🌱 I am currently taking Harvard's CS50 course. I have completed Udemy's ZTM: Python Developer course.
 - 📫 You can reach me by email at smo102894@gmail.com
 
